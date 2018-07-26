@@ -1,10 +1,19 @@
-body { 
+body{
 
-	background-color: #ffca62;  
+	background-color: #ffca62;
 }
 
 .available{
 
     border-color: red;
 
+}
+
+.jumbotron {
+
+    background-color: #ffca62;
+}
+
+.top{
+    text-align: center;
 }
